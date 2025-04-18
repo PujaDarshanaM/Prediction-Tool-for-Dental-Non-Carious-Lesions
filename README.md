@@ -1,5 +1,5 @@
 
-# 🦷 Prediction Tool for Non-Carious Cervical Lesions (NCCLs)
+##🦷 Prediction Tool for Non-Carious Cervical Lesions (NCCLs)
 
 This project leverages machine learning to predict **volume loss in experimental tooth specimens**, helping identify conditions that have higher potential for non-carious cervical lesions (NCCLs) development. By simulating lesion progression and analyzing influencing variables, the tool aims to **optimize in vitro testing** and significantly reduce experimental costs and time. To our knowledge, there are no prior studies in literature that use predictive modeling for estimating NCCL progression based on controlled abrasivity factors. This makes the project an early step toward integrating data science into preventive dental research.
 ---
